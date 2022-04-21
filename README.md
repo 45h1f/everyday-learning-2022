@@ -1,1 +1,12 @@
-# everyday-learning-2022
+# Everyday-learning-2022
+I am trying to learn a new thing every day and note it with references.
+
+
+## April
+
+| Date | Topic | Details | Progress |
+|:------:|------|------------|:-------:|
+|  21/04/2022 | Docker | `What is Docker`  | Done |
+
+
+ 
